@@ -126,7 +126,8 @@ curl -X GET "${BASE_URL}/products/" \
         "name": "Smartwatch X1",
         "description": "Water-resistant smartwatch with fitness tracking",
         "price": "249.99",
-        "average_rating": 4.5"reviews": [
+        "average_rating": 4.5,
+        "reviews": [
             {
                 "id": 1,
                 "product": 1,
